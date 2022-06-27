@@ -1,0 +1,89 @@
+
+.ChildDiv
+{
+    display: inline-block;
+    vertical-align: text-top;
+    margin: 0 auto;
+}
+
+.imgwidth
+{
+    width: 400px;
+    height:400px;
+}
+
+.docimg
+{
+    width: 100px;
+    height: 100px;
+}
+html,body{
+    height: 100%;
+    margin:0;
+}
+.loginpageBackground {
+    background-image: url("./images/lightpink.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+   
+}
+
+.feildwidth
+{
+    width: 250px;
+    height: 33px;
+    border-radius: 3px;
+    border: 1px solid grey;
+}
+
+.buttonstyle
+{
+    border-radius: 10px;
+    
+}
+.buttondiv
+{
+    border-radius: 25%;
+}
+
+.passwordstyle
+{
+    background-color: rgb(154, 190, 231);
+    border-radius: 3px;
+    height:30px;
+    padding:5px;
+    color: white;
+}
+
+.emailstyle
+{
+    background-color: rgb(154, 190, 231);
+    border-radius: 3px;
+    height:30px;
+    padding-left:20px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.loginstyle
+{
+    border-radius: 5px;
+    background-color:rgb(83, 154, 234);
+    border: 1px solid rgb(83, 154, 234);
+    color:white;
+    padding:5px
+}
+.ptmaindiv
+{
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgb(247, 203, 228);
+    padding-left: 0%;
+    padding: 0%;
+    margin: 0%;
+    background-color: white;
+    
+}

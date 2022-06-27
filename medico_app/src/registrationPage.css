@@ -1,0 +1,32 @@
+.rploginpageBackground
+ {
+    background-image: url("./images/gradien-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+   
+}
+.rpChildDiv
+{
+    display: inline-block;
+    vertical-align: text-top;
+    margin: 0 auto;
+}
+
+
+.logincss
+{
+    border-radius: 5px;
+    background-color:rgb(221, 40, 113);
+    border: 1px solid rgb(211, 40, 113);
+    color:white;
+    padding:5px
+
+}
+
+.imagecss
+{
+    border-radius: 10px;
+}
+

@@ -1,0 +1,50 @@
+.dpChildDiv
+{
+    display: inline-block;
+    vertical-align: text-top;
+    margin: 0 auto;
+}
+
+.dpdocimg
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.dpimgwidth
+{
+    width: 450px;
+    height:400px;
+    padding: 5px;
+}
+
+.dploginpageBackground
+ {
+    background-image: url("./images/bluegradient.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:auto;
+   
+}
+
+.dpmaindiv
+{
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgb(189, 209, 222);
+    padding-left: 0%;
+    padding: 0%;
+    margin: 0%;
+    background-color: white;
+    
+}
+
+.circle
+{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    border: 15px solid white;
+}

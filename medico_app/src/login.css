@@ -1,0 +1,86 @@
+
+.dlChildDiv
+{
+    display: inline-block;
+    vertical-align: text-top;
+    margin: 0 auto;
+}
+
+.dlimgwidth
+{
+    width:400px;
+    height:400px;
+}
+
+.dldocimg
+{
+    width: 100px;
+    height: 100px;
+}
+
+.dlloginpageBackground {
+    background-image: url("./images/loginbackground.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+   
+}
+
+.dlfeildwidth
+{
+    width: 250px;
+    height: 33px;
+    border-radius: 3px;
+    border: 1px solid grey;
+}
+
+.dlbuttonstyle
+{
+    border-radius: 10px;
+    
+}
+.dlbuttondiv
+{
+    border-radius: 25%;
+}
+
+.dlpasswordstyle
+{
+    background-color: rgb(243, 165, 187);
+    border-radius: 3px;
+    height:30px;
+    padding:5px;
+    color: white;
+}
+
+.dlemailstyle
+{
+    background-color: rgb(243, 165, 187);
+    border-radius: 3px;
+    height:30px;
+    padding-left:20px;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.dlloginstyle
+{
+    border-radius: 5px;
+    background-color:rgb(221, 40, 113);
+    border: 1px solid rgb(211, 40, 113);
+    color:white;
+    padding:5px
+}
+.dlmaindiv
+{
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightblue;
+    padding-left: 0%;
+    padding: 0%;
+    margin: 0%;
+    background-color: white;
+    
+}
